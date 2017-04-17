@@ -250,5 +250,12 @@
 		"ios": "https://itunes.apple.com/app/id1219173067",
 		"android": "https://huajiangpu.com/m",
 		"icon": "http://oiifzbqya.bkt.clouddn.com/hjplogo128.png"
+	},
+	{
+		"name": "腾跃校长在线",
+		"desc": "校长办学神器",
+		"ios": "https://itunes.apple.com/cn/app/id1135860997?mt=8",
+		"android": "http://sj.qq.com/myapp/detail.htm?apkName=com.prance.app",
+		"icon": "http://static.tengyue360.com/static/images/detail/icon@2x.png?v=1479808467772"
 	}
 ]
